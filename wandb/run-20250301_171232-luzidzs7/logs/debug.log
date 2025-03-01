@@ -1,0 +1,68 @@
+2025-03-01 17:12:32,932 INFO    MainThread:12880 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_171232-luzidzs7\logs\debug.log
+2025-03-01 17:12:32,932 INFO    MainThread:12880 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_171232-luzidzs7\logs\debug-internal.log
+2025-03-01 17:12:32,932 INFO    MainThread:12880 [wandb_init.py:init():761] calling init triggers
+2025-03-01 17:12:32,932 INFO    MainThread:12880 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 17:12:32,933 INFO    MainThread:12880 [wandb_init.py:init():784] starting backend
+2025-03-01 17:12:32,938 INFO    MainThread:12880 [wandb_init.py:init():788] sending inform_init request
+2025-03-01 17:12:32,940 INFO    MainThread:12880 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 17:12:32,940 INFO    MainThread:12880 [wandb_init.py:init():803] backend started and connected
+2025-03-01 17:12:32,942 INFO    MainThread:12880 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-01 17:12:32,955 INFO    MainThread:12880 [wandb_init.py:init():896] updated telemetry
+2025-03-01 17:12:33,011 INFO    MainThread:12880 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-01 17:14:03,037 WARNING MainThread:12880 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 946, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 23, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 86, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\lib\asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 451, in result
+    self._condition.wait(timeout)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 355, in wait
+    waiter.acquire()
+KeyboardInterrupt
+2025-03-01 17:14:04,909 INFO    MainThread:12880 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_171404-0sj5v6zo\logs\debug.log
+2025-03-01 17:14:04,910 INFO    MainThread:12880 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_171404-0sj5v6zo\logs\debug-internal.log
+2025-03-01 17:14:04,910 INFO    MainThread:12880 [wandb_init.py:init():761] calling init triggers
+2025-03-01 17:14:04,910 INFO    MainThread:12880 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 17:14:04,910 INFO    MainThread:12880 [wandb_init.py:init():784] starting backend
+2025-03-01 17:14:04,914 INFO    MainThread:12880 [wandb_init.py:init():788] sending inform_init request
+2025-03-01 17:14:04,918 INFO    MainThread:12880 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 17:14:04,918 INFO    MainThread:12880 [wandb_init.py:init():803] backend started and connected
+2025-03-01 17:14:04,920 INFO    MainThread:12880 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-01 17:14:04,934 INFO    MainThread:12880 [wandb_init.py:init():896] updated telemetry
+2025-03-01 17:14:04,984 INFO    MainThread:12880 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-01 17:15:35,021 WARNING MainThread:12880 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 946, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 23, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 86, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\lib\asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 451, in result
+    self._condition.wait(timeout)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 355, in wait
+    waiter.acquire()
+KeyboardInterrupt

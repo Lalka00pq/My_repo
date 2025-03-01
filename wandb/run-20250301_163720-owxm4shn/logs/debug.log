@@ -1,0 +1,141 @@
+2025-03-01 16:37:20,350 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_163720-owxm4shn\logs\debug.log
+2025-03-01 16:37:20,351 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_163720-owxm4shn\logs\debug-internal.log
+2025-03-01 16:37:20,352 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:37:20,352 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 6, 'batch_size': 32, '_wandb': {}}
+2025-03-01 16:37:20,352 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:37:21,493 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:37:21,493 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:38:51,737 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:38:51,746 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_163851-rco3pkpu\logs\debug.log
+2025-03-01 16:38:51,747 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_163851-rco3pkpu\logs\debug-internal.log
+2025-03-01 16:38:51,747 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:38:51,747 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 6, 'batch_size': 32, '_wandb': {}}
+2025-03-01 16:38:51,748 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:38:52,981 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:38:52,981 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:45:07,488 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:45:07,495 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164507-kz2lribi\logs\debug.log
+2025-03-01 16:45:07,495 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164507-kz2lribi\logs\debug-internal.log
+2025-03-01 16:45:07,495 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:45:07,496 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 6, 'batch_size': 32, '_wandb': {}}
+2025-03-01 16:45:07,496 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:45:08,358 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:45:08,358 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:47:32,471 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:47:32,481 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164732-mgscg82q\logs\debug.log
+2025-03-01 16:47:32,482 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164732-mgscg82q\logs\debug-internal.log
+2025-03-01 16:47:32,482 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:47:32,483 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 6, 'batch_size': 32, '_wandb': {}}
+2025-03-01 16:47:32,483 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:47:33,470 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:47:33,471 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:48:03,452 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:48:03,463 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164803-mmkaua26\logs\debug.log
+2025-03-01 16:48:03,463 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_164803-mmkaua26\logs\debug-internal.log
+2025-03-01 16:48:03,464 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:48:03,464 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 6, 'batch_size': 32, '_wandb': {}}
+2025-03-01 16:48:03,464 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:48:04,511 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:48:04,512 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:53:38,833 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:53:38,838 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:53:38,839 INFO    MainThread:33296 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-01 16:53:49,312 INFO    MainThread:33296 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-01 16:53:49,321 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_165349-iamfu32o\logs\debug.log
+2025-03-01 16:53:49,322 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_165349-iamfu32o\logs\debug-internal.log
+2025-03-01 16:53:49,322 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:53:49,323 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 16:53:49,323 INFO    MainThread:33296 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-01 16:53:56,090 INFO    MainThread:33296 [wandb_run.py:_finish():2112] finishing run lalka00pq-/yolov8s_project/k2hx1qmk
+2025-03-01 16:53:56,092 ERROR   MainThread:33296 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-03-01 16:53:56,092 INFO    MainThread:33296 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-01 16:53:56,093 INFO    MainThread:33296 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-01 16:53:56,093 INFO    MainThread:33296 [wandb_run.py:_atexit_cleanup():2342] got exitcode: 0
+2025-03-01 16:53:56,093 INFO    MainThread:33296 [wandb_run.py:_restore():2324] restore
+2025-03-01 16:53:56,094 INFO    MainThread:33296 [wandb_run.py:_restore():2330] restore done
+2025-03-01 16:53:59,014 INFO    MsgRouterThr:33296 [mailbox.py:close():115] Closing mailbox, abandoning 1 handles.
+2025-03-01 16:53:59,014 INFO    MainThread:33296 [wandb_run.py:_footer_history_summary_info():3958] rendering history
+2025-03-01 16:53:59,014 INFO    MainThread:33296 [wandb_run.py:_footer_history_summary_info():3990] rendering summary
+2025-03-01 16:53:59,014 INFO    MainThread:33296 [wandb_run.py:_footer_sync_info():3919] logging synced files
+2025-03-01 16:56:24,688 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_165624-ld6l39q9\logs\debug.log
+2025-03-01 16:56:24,689 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_165624-ld6l39q9\logs\debug-internal.log
+2025-03-01 16:56:24,690 INFO    MainThread:33296 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000020480937770>
+2025-03-01 16:56:24,691 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 16:56:24,691 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 16:56:24,692 INFO    MainThread:33296 [wandb_init.py:init():784] starting backend
+2025-03-01 16:56:24,692 INFO    MainThread:33296 [wandb_init.py:init():788] sending inform_init request
+2025-03-01 16:56:24,697 INFO    MainThread:33296 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 16:56:24,699 INFO    MainThread:33296 [wandb_init.py:init():803] backend started and connected
+2025-03-01 16:56:24,701 INFO    MainThread:33296 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-01 16:56:24,718 INFO    MainThread:33296 [wandb_run.py:_label_probe_notebook():1214] Unable to probe notebook: 'charmap' codec can't decode byte 0x98 in position 1355: character maps to <undefined>
+2025-03-01 16:56:24,719 INFO    MainThread:33296 [wandb_init.py:init():896] updated telemetry
+2025-03-01 16:56:24,788 INFO    MainThread:33296 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-01 16:56:25,368 ERROR   MainThread:33296 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 968, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 403 Forbidden: {"errors":[{"message":"permission denied","path":["upsertBucket"],"extensions":{"code":"PERMISSION_ERROR"}}],"data":{"upsertBucket":null}}
+2025-03-01 17:03:23,760 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_170323-dxuhj4od\logs\debug.log
+2025-03-01 17:03:23,760 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_170323-dxuhj4od\logs\debug-internal.log
+2025-03-01 17:03:23,760 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 17:03:23,760 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 17:03:23,760 INFO    MainThread:33296 [wandb_init.py:init():784] starting backend
+2025-03-01 17:03:23,767 INFO    MainThread:33296 [wandb_init.py:init():788] sending inform_init request
+2025-03-01 17:03:23,771 INFO    MainThread:33296 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 17:03:23,772 INFO    MainThread:33296 [wandb_init.py:init():803] backend started and connected
+2025-03-01 17:03:23,774 INFO    MainThread:33296 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-01 17:03:23,789 INFO    MainThread:33296 [wandb_init.py:init():896] updated telemetry
+2025-03-01 17:03:23,841 INFO    MainThread:33296 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-01 17:03:24,469 ERROR   MainThread:33296 [wandb_init.py:init():1481] error in wandb.init()
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 968, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 403 Forbidden: {"errors":[{"message":"permission denied","path":["upsertBucket"],"extensions":{"code":"PERMISSION_ERROR"}}],"data":{"upsertBucket":null}}
+2025-03-01 17:09:58,757 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():647] Logging user logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_170958-q8v5uc7u\logs\debug.log
+2025-03-01 17:09:58,758 INFO    MainThread:33296 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to c:\Users\User\Desktop\ML_projects\My_repo\wandb\run-20250301_170958-q8v5uc7u\logs\debug-internal.log
+2025-03-01 17:09:58,758 INFO    MainThread:33296 [wandb_init.py:init():761] calling init triggers
+2025-03-01 17:09:58,759 INFO    MainThread:33296 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 10, 'batch': 32, 'imgsz': 640, 'workers': 4, '_wandb': {}}
+2025-03-01 17:09:58,759 INFO    MainThread:33296 [wandb_init.py:init():784] starting backend
+2025-03-01 17:09:58,763 INFO    MainThread:33296 [wandb_init.py:init():788] sending inform_init request
+2025-03-01 17:09:58,766 INFO    MainThread:33296 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn, using: spawn
+2025-03-01 17:09:58,767 INFO    MainThread:33296 [wandb_init.py:init():803] backend started and connected
+2025-03-01 17:09:58,769 INFO    MainThread:33296 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-01 17:09:58,781 INFO    MainThread:33296 [wandb_init.py:init():896] updated telemetry
+2025-03-01 17:09:58,832 INFO    MainThread:33296 [wandb_init.py:init():920] communicating run to backend with 90.0 second timeout
+2025-03-01 17:11:28,847 WARNING MainThread:33296 [wandb_init.py:init():1475] interrupted
+Traceback (most recent call last):
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 1471, in init
+    return wi.init(run_settings, run_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\wandb_init.py", line 946, in init
+    result = wait_with_progress(
+             ^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 23, in wait_with_progress
+    return wait_all_with_progress(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\mailbox\wait_with_progress.py", line 86, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\User\Desktop\ML_projects\My_repo\.venv\Lib\site-packages\wandb\sdk\lib\asyncio_compat.py", line 30, in run
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 451, in result
+    self._condition.wait(timeout)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\threading.py", line 355, in wait
+    waiter.acquire()
+KeyboardInterrupt

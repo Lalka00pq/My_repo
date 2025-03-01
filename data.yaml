@@ -1,0 +1,11 @@
+path: Data_for_detectors/
+train: train
+val: test
+test: test
+names:
+  0: human
+  1: wind/sup-board
+  2: boat
+  3: bouy
+  4: sailboat
+  5: kayak

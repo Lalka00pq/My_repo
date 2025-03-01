@@ -1,0 +1,8 @@
+{"time":"2025-03-01T17:14:04.9195911+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"c:\\Users\\User\\Desktop\\ML_projects\\My_repo\\wandb\\run-20250301_171404-0sj5v6zo\\logs\\debug-core.log"}
+{"time":"2025-03-01T17:14:05.034156+03:00","level":"INFO","msg":"created new stream","id":"0sj5v6zo"}
+{"time":"2025-03-01T17:14:05.0347429+03:00","level":"INFO","msg":"stream: started","id":"0sj5v6zo"}
+{"time":"2025-03-01T17:14:05.0347429+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"0sj5v6zo"}
+{"time":"2025-03-01T17:14:05.0347429+03:00","level":"INFO","msg":"sender: started","stream_id":"0sj5v6zo"}
+{"time":"2025-03-01T17:14:05.0347429+03:00","level":"INFO","msg":"handler: started","stream_id":"0sj5v6zo"}
+{"time":"2025-03-01T17:14:05.5853619+03:00","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-01T17:14:05.5853619+03:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403 Forbidden: {\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}],\"data\":{\"upsertBucket\":null}}"}
